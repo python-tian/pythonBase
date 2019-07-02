@@ -1,2 +1,2 @@
-# pythonBase
+# pythonstudy
 python基础
