@@ -151,3 +151,5 @@ for data in many_data:
 # data.name = "老李"
 #     #然后提交操作
 # session.commit()
+
+
