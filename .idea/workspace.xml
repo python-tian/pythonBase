@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5698ba17-6a1d-4637-8d72-3c93e1f6d4c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lianxiceshi1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试报告.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化测试练习.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm.py" beforeDir="false" afterPath="$PROJECT_DIR$/orm.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,14 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../gitproject-all/Python/readFile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="291" column="22" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
+              <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
             </state>
           </provider>
         </entry>
@@ -266,7 +271,7 @@
       <updated>1562050270390</updated>
       <workItem from="1562050271569" duration="5351000" />
       <workItem from="1562081171182" duration="231000" />
-      <workItem from="1562121841155" duration="22081000" />
+      <workItem from="1562121841155" duration="22594000" />
     </task>
     <task id="LOCAL-00001" summary="this is commit we update it">
       <created>1562050325075</created>
@@ -282,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562081246959</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="this is test file">
+      <created>1562224624276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562224624277</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -318,10 +330,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27663000" />
+    <option name="totallyTimeSpent" value="28176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
@@ -353,7 +365,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is commit we update it" />
     <MESSAGE value="this is mysql orm" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is mysql orm" />
+    <MESSAGE value="this is test file" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is test file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fox_face.py" />
@@ -450,14 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="291" column="22" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
-          <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/测试报告.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
@@ -470,11 +475,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../gitproject-all/Python/readFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="291" column="22" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
+          <caret line="292" lean-forward="true" selection-start-line="292" selection-end-line="292" />
         </state>
       </provider>
     </entry>
